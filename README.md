@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart-Disease-Prediction + Python Visualization
 This dataset is from UCI repository
 
 Follow the instructions for data preparations, imputations and for the further process:
